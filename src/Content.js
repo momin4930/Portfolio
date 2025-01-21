@@ -17,6 +17,7 @@ import services_logo3 from "./assets/images/Services/logo3.png";
 import project1 from "./assets/images/Projects/Project3.png";
 import project2 from "./assets/images/Projects/Project1.png";
 import project3 from "./assets/images/Projects/Project2.png";
+import project4 from "./assets/images/Projects/Project4.png";
 // import person_project from "./assets/images/projects/person.png";
 
 import avatar1 from "./assets/images/Testimonials/avatar1.png";
@@ -160,6 +161,10 @@ export const content = {
       {
         title: "Property App",
         image: project3,
+      },
+      {
+        title: "Employee Management System",
+        image: project4,
       },
     ],
   },
