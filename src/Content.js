@@ -22,7 +22,7 @@ import project5 from "./assets/images/Projects/Project5.png";
 import project6 from "./assets/images/Projects/CraveLab.png";
 import project7 from "./assets/images/Projects/EliteFit.png";
 import project8 from "./assets/images/Projects/ExpenseTracker.png";
-import person_project from "./assets/images/projects/Person.png";
+import person_project from "./assets/images/Projects/Person.png";
 
 import avatar1 from "./assets/images/Testimonials/avatar1.png";
 import avatar2 from "./assets/images/Testimonials/avatar2.png";
