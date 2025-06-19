@@ -16,9 +16,13 @@ import services_logo3 from "./assets/images/Services/logo3.png";
 
 import project1 from "./assets/images/Projects/Project3.png";
 import project2 from "./assets/images/Projects/Project1.png";
-import project3 from "./assets/images/Projects/Project2.png";
+import project3 from "./assets/images/Projects/Landscope.png";
 import project4 from "./assets/images/Projects/Project4.png";
-// import person_project from "./assets/images/projects/person.png";
+import project5 from "./assets/images/Projects/Project5.png";
+import project6 from "./assets/images/Projects/CraveLab.png";
+import project7 from "./assets/images/Projects/EliteFit.png";
+import project8 from "./assets/images/Projects/ExpenseTracker.png";
+import person_project from "./assets/images/projects/person_project.png";
 
 import avatar1 from "./assets/images/Testimonials/avatar1.png";
 import avatar2 from "./assets/images/Testimonials/avatar2.png";
@@ -69,7 +73,7 @@ export const content = {
     hero_content: [
       {
         count: "1.5+",
-        text: "Years of Experinse in Web development",
+        text: "Years of Experience in Web development",
       },
       {
         count: "10+",
@@ -102,9 +106,9 @@ export const content = {
         logo: reactjs,
       },
       {
-        name: "Docker",
+        name: "React Native",
         para: "Lorem ipsum text  dummy",
-        logo: docker,
+        logo: reactjs,
       },
       {
         name: "Python",
@@ -148,8 +152,24 @@ export const content = {
   Projects: {
     title: "Projects",
     subtitle: "MY CREATION",
-    //image: person_project,
+    image: person_project,
     project_content: [
+      {
+        title: "CraveLab",
+        image: project6,
+      },
+      {
+        title: "Ballebaz",
+        image: project5,
+      },
+      {
+        title: "EliteFit",
+        image: project7,
+      },
+      {
+        title: "ExpenseTracker",
+        image: project8,
+      },
       {
         title: "Todo App",
         image: project1,
